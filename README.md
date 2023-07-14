@@ -1,6 +1,6 @@
-# [anniew.xyz](https://anniew.xyz/) - v2.5
+# [Akshitha Portfolio](https://akshitha.cottonseeds.org/) - v2.5
 
-This is the source code for my personal website - a developer and photographer portfolio.
+This is the source code for Akshitha Portfolio website
 
 <p align="center">
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E44D26?style=flat&logo=html5&logoColor=white"/>
@@ -11,7 +11,7 @@ This is the source code for my personal website - a developer and photographer p
 </p>
 
 <p align="center">
-  <a href="http://anniew.xyz"><img src="./img/project-preview/anniewxyz-preview.png" width="700px" alt="landing page"></a>
+  <a href="https://akshitha.cottonseeds.org"><img src="img/project-preview/akshitha-preview.gif" width="700px" alt="landing page"></a>
 </p>
 
 ## Table of Contents
@@ -34,7 +34,6 @@ This is the source code for my personal website - a developer and photographer p
 
 <img alt="Font Example Screenshot" src="./img/readme/fire-code.png">
 
-
 [Nunito](https://fonts.google.com/specimen/Nunito) - normal text
 
 <img alt="Font Example Screenshot" src="./img/readme/nunito.png">
@@ -52,9 +51,9 @@ This is the source code for my personal website - a developer and photographer p
 
 ### Icon
 
-This is the icon of me on the Home and About pages.
+This is the icon on the Home and About pages.
 
-_Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
+_Art credits to [wynn.draws](https://www.instagram.com/wynn.draws/)._
 
 <img alt="Me Icon" src="./img/me-icon.png" width="250px">
 <img alt="Me Icon Smiling" src="./img/me-icon-smiling.png" width="250px">
@@ -66,11 +65,10 @@ _Art credits to my friend [wynn.draws](https://www.instagram.com/wynn.draws/)._
 
 I made a mix of low and high fidelity wireframes for the pages of my website. The final product looks mostly like this, but small changes are made along the way.
 
-<img alt="Wireframe" src="./img/readme/wireframe-home-desktop.png" >
-<img alt="Wireframe" src="./img/readme/wireframe-home-mobile.png" >
-<img alt="Wireframe" src="./img/readme/wireframe-about-desktop.png" >
-<img alt="Wireframe" src="./img/readme/wireframe-photos-desktop.png" >
-<img alt="Wireframe" src="./img/readme/wireframe-photos-mobile.png" >
+<img alt="Wireframe" src="img/readme/home-desktop.png" >
+<img alt="Wireframe" src="img/readme/home-mobile.png" >
+<img alt="Wireframe" src="img/readme/all-devices-black.png" >
+<img alt="Wireframe" src="img/readme/about2.png" >
 
 ---
 
@@ -88,25 +86,12 @@ I made a mix of low and high fidelity wireframes for the pages of my website. Th
 
 ## Creator / Maintainer
 
-Annie Wu ([anniedotexe](https://github.com/anniedotexe))
+Annie Wu ([anniedotexe](https://github.com/anniedotexe)) (base)
 
-If you have any questions, comments, or concerns, feel free to contact me below.
-
-<p align="left">
-  <a href="mailto:anniewu2303@gmail.com"> 
-    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-</p>
-
-This project was created for educational purposes and for personal use. Feel free to take inspiration.
-- If you are interested in forking this to use as a template for your own portfolio website, please give credit (i.e., in the readme) and ensure to update all information and content to be yours before deploying, so you are not displaying my content and information as your own. Thanks. :D
-
-If you like my content or find this code useful, give it a ⭐ or support me by buying me a coffee ☕💙
-
-<a href="https://www.buymeacoffee.com/anniedotexe" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+Pranay Kiran ([kiranpranay](https://github.com/kiranpranay))
 
 ---
 
 ### License
 
-Copyright &copy; 2021-2023 Annie Wu. All rights reserved.
+Copyright &copy; 2023 kiranpranay All rights reserved.
